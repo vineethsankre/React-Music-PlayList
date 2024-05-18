@@ -55,20 +55,6 @@ The app must have the following functionalities
 
   </details>
 
-### Important Note
-
-<details>
-<summary>Click to view</summary>
-
-<br/>
-
-**The following instructions are required for the tests to pass**
-
-- The `imageUrl` in each track item should have alt as **track**
-- The delete button in the track item should have the `data-testid` as **delete**
-
-</details>
-
 ### Resources
 
 <details>
