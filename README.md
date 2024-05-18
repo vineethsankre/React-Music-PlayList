@@ -78,16 +78,4 @@ The app must have the following functionalities
 
 </details>
 
-<details>
-<summary>Colors</summary>
-
-<br/>
-
-<div style="background-color: #152850; width: 150px; padding: 10px; color: white">Hex: #152850</div>
-<div style="background-color: #cbd5e1; width: 150px; padding: 10px; color: black">Hex: #cbd5e1</div>
-<div style="background-color: #ffffff; width: 150px; padding: 10px; color: black">Hex: #ffffff</div>
-<div style="background-color: #3b82f6; width: 150px; padding: 10px; color: black">Hex: #3b82f6</div>
-<br/>
-
-</details>
 
