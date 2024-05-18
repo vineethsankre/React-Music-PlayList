@@ -91,9 +91,3 @@ The app must have the following functionalities
 
 </details>
 
-<details>
-<summary>Font-families</summary>
-
-- Roboto
-
-</details>
