@@ -101,4 +101,3 @@ The app must have the following functionalities
 > ### _Things to Keep in Mind_
 >
 > - All components you implement should go in the `src/components` directory.
-> - Don't change the componen
