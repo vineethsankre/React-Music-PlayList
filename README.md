@@ -14,8 +14,6 @@
 
 <details>
 <summary>Click to view</summary>
-
-- Download dependencies by running `npm install`
 </details>
 
 ### Completion Instructions
