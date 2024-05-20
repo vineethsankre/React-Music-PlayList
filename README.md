@@ -10,8 +10,6 @@
 
 </details>
 
-### Set Up Instructions
-
 ### Completion Instructions
 
 <details>
