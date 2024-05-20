@@ -12,10 +12,6 @@
 
 ### Set Up Instructions
 
-<details>
-<summary>Click to view</summary>
-</details>
-
 ### Completion Instructions
 
 <details>
