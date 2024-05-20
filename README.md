@@ -1,4 +1,4 @@
-    <source src="https://assets.ccbp.in/frontend/content/react-js/music-playlist-output.mp4" type="video/mp4">
+https://assets.ccbp.in/frontend/content/react-js/music-playlist-output.mp4" type="video/mp4">
   </video>
 </div>
 <br/>
